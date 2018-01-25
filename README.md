@@ -29,8 +29,8 @@ A curated list of resources that may be helpful for work at OnCell
 ### Time/Project Management
 
 ## Books
-* You Don't Know JS(https://github.com/getify/You-Dont-Know-JS)
-* Two Scoops of Django(https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Two Scoops of Django](https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342)
 
 ## Podcasts
 * [ShopTalkShow](http://shoptalkshow.com/)
