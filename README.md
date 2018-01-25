@@ -35,6 +35,8 @@ A curated list of resources that may be helpful for work at OnCell
 ## Podcasts
 * [ShopTalkShow](http://shoptalkshow.com/)
   * Show about front-end development by Chris Coyier (of Codepen, CSS-Tricks) and Dave Rupert
+* [Syntax] (https://syntax.fm/)
+  * Show about front-end development by Wes Bos
 
 ## Design
 * [Dribbble](https://dribbble.com/)
