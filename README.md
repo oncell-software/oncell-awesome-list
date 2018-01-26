@@ -15,12 +15,15 @@ A curated list of resources that may be helpful for work at OnCell
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [CSS Tricks](https://css-tricks.com/)
 ### HTML
 ### Cordova
 * [Learn to Build Your First Apache Cordova / PhoneGap App](https://www.udemy.com/learn-to-build-your-first-apache-cordova-app/)
 ### iOS
 ### Android
 ### MySQL
+### Twilio
+* [Twilio Quest](https://www.twilio.com/quest/welcome)
 ### General
 * [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
@@ -29,14 +32,22 @@ A curated list of resources that may be helpful for work at OnCell
 
 ## Development Tools
 ### Code Editors
+* [Atom](https://atom.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
 ### Command Line
+* [Command Line Power User](https://commandlinepoweruser.com/)
+* [iTerm2](https://www.iterm2.com/)
 ### Git
 * [Oh shit, git!](http://ohshitgit.com/)
+* [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 ### Vagrant
 * [Vagrant Docs](https://www.vagrantup.com/docs/index.html)
 ### REST API Tools
+* [Postman](https://www.getpostman.com/)
 ### Linting
 * [ESLint](https://eslint.org/)
+* [Prettier](https://github.com/prettier/prettier)
 ### Debugging
 * [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 * [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
@@ -51,6 +62,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [Client side accessibility error scanner](https://github.com/github/accessibilityjs)
 ### Security
 * [Quick Wins For Improving Performance And Security Of Your Website](https://www.smashingmagazine.com/2017/10/improving-performance-security/)
+* [What web developers should know about HTTPS but probably don't](https://certsimple.com/blog/obsolete-cipher-suite-and-things-web-developers-should-know-about-ssl)
 ### Augmented Reality
 ### Beacons
 * [iBeacons – our experience in the Hidden Museum app](http://www.labs.bristolmuseums.org.uk/ibeacons-our-experience-in-the-hidden-museum-app/)
@@ -64,10 +76,10 @@ A curated list of resources that may be helpful for work at OnCell
 * [Noisli White Noise Generator](https://www.noisli.com/)
 ### Software Project Management
 * [How to Scope Work](http://danmall.me/articles/how-to-scope-work/)
+* [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 * [Fog Creek Code Review Checklist](https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
 * [Effective Code Reviews](https://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 * [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
-
 
 ## Books
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -84,12 +96,21 @@ A curated list of resources that may be helpful for work at OnCell
 * [Typewolf](https://www.typewolf.com/)
 * [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
 * [Aspect Ratio Calculator](https://aspectrat.io/)
+* [Hack Design](https://hackdesign.org/lessons)
+* [Sketch App](https://www.sketchapp.com/)
 
 ## Industry News
+* [Hacker News](https://news.ycombinator.com/)
+* [TechCrunch](https://techcrunch.com/)
 * [Front End Front](https://frontendfront.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Web Developer Reading List](https://wdrl.info/)
 
 ## Tutorial Sites
+* [Code School](https://www.codeschool.com/)
+* [Treehouse](https://teamtreehouse.com/)
 * [Egghead](https://egghead.io/)
+* [Codecademy](https://www.codecademy.com/)
 
 ## Fun Stuff
 * [Brain Pickings](https://www.brainpickings.org/)
