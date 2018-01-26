@@ -29,7 +29,7 @@ A curated list of resources that may be helpful for work at OnCell
 ### iOS
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/)
 ### Android
-[Google Developers Training](https://developers.google.com/training/android/)
+* [Google Developers Training](https://developers.google.com/training/android/)
 ### MySQL
 ### Twilio
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
