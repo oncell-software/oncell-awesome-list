@@ -5,13 +5,15 @@ A curated list of resources that may be helpful for work at OnCell
 ### Django/Python
 * [Django 1.8 Docs](https://docs.djangoproject.com/en/1.8/)
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+* [Python Awesome List](https://github.com/vinta/awesome-python)
+* [Django Awesome List](https://github.com/rosarior/awesome-django)
 ### Javascript
 * [Robust Javascript](https://molily.de/robust-javascript/)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [The 10 Most Common Mistakes JavaScript Developers Make](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 * [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
-* [Wes Bos ES6](https://es6.io/)
+* [JSTips List](https://github.com/loverajoel/jstips)
 ### CSS
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
@@ -20,12 +22,14 @@ A curated list of resources that may be helpful for work at OnCell
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Wes Bos Flexbox](https://flexbox.io/)
 * [CSS Tricks](https://css-tricks.com/)
+* [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
 ### HTML
 ### Cordova
 * [Learn to Build Your First Apache Cordova / PhoneGap App](https://www.udemy.com/learn-to-build-your-first-apache-cordova-app/)
 ### iOS
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/)
 ### Android
+[Google Developers Training](https://developers.google.com/training/android/)
 ### MySQL
 ### Twilio
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
@@ -44,9 +48,12 @@ A curated list of resources that may be helpful for work at OnCell
 ### Command Line
 * [Command Line Power User](https://commandlinepoweruser.com/)
 * [iTerm2](https://www.iterm2.com/)
+* [Dotfiles Awesome List](https://github.com/webpro/awesome-dotfiles)
+* [Shell Awesome List](https://github.com/alebcay/awesome-shell)
 ### Git
 * [Oh shit, git!](http://ohshitgit.com/)
 * [SourceTree Git GUI](https://www.sourcetreeapp.com/)
+* [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 ### Vagrant
 * [Vagrant Docs](https://www.vagrantup.com/docs/index.html)
 ### REST API Tools
@@ -61,6 +68,7 @@ A curated list of resources that may be helpful for work at OnCell
 ### General
 * [macOS development environment from scratch](https://assortment.io/posts/macos-development-environment)
 * [DevDocs](https://devdocs.io/)
+* [Dev Env Awesome List](https://github.com/jondot/awesome-devenv)
 
 ## Other Technical Topics
 ### Accessibility
@@ -79,6 +87,9 @@ A curated list of resources that may be helpful for work at OnCell
 * [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
 * [Best Practices for a Faster Web App with HTML5](https://www.html5rocks.com/en/tutorials/speed/quick/)
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+* [Awesome Web Performance List](https://github.com/davidsonfellipe/awesome-wpo)
+### Progressive Web Apps
+* [PWA List](https://github.com/TalAter/awesome-progressive-web-apps)
 ### Productivity
 * [Noisli White Noise Generator](https://www.noisli.com/)
 ### Software Project Management
@@ -106,6 +117,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [Aspect Ratio Calculator](https://aspectrat.io/)
 * [Hack Design](https://hackdesign.org/lessons)
 * [Sketch App](https://www.sketchapp.com/)
+* [Web Typography List](https://github.com/deanhume/typography)
 
 ## Industry News
 * [Hacker News](https://news.ycombinator.com/)
