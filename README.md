@@ -84,7 +84,9 @@ A curated list of resources that may be helpful for work at OnCell
 * [Typewolf](https://www.typewolf.com/)
 * [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
 * [Aspect Ratio Calculator](https://aspectrat.io/)
+
 ## Industry News
+* [Front End Front](https://frontendfront.com/)
 
 ## Tutorial Sites
 * [Egghead](https://egghead.io/)
