@@ -80,6 +80,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [Fog Creek Code Review Checklist](https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
 * [Effective Code Reviews](https://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 * [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+* [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Books
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
