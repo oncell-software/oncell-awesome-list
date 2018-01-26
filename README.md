@@ -11,7 +11,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [The 10 Most Common Mistakes JavaScript Developers Make](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 * [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
-* [Wes Box ES6](https://es6.io/)
+* [Wes Bos ES6](https://es6.io/)
 ### CSS
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
