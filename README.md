@@ -10,16 +10,21 @@ A curated list of resources that may be helpful for work at OnCell
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [The 10 Most Common Mistakes JavaScript Developers Make](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+* [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
+* [Wes Box ES6](https://es6.io/)
 ### CSS
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Wes Bos CSS Grid](https://cssgrid.io/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Wes Bos Flexbox](https://flexbox.io/)
 * [CSS Tricks](https://css-tricks.com/)
 ### HTML
 ### Cordova
 * [Learn to Build Your First Apache Cordova / PhoneGap App](https://www.udemy.com/learn-to-build-your-first-apache-cordova-app/)
 ### iOS
+* [Ray Wenderlich Tutorials](https://www.raywenderlich.com/)
 ### Android
 ### MySQL
 ### Twilio
@@ -29,6 +34,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [What Web Can Do Today](https://whatwebcando.today/) 
+* [Can I Use](https://caniuse.com/)
 
 ## Development Tools
 ### Code Editors
@@ -60,6 +66,7 @@ A curated list of resources that may be helpful for work at OnCell
 ### Accessibility
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 * [Client side accessibility error scanner](https://github.com/github/accessibilityjs)
+* [A11Y accessibility checklist](https://a11yproject.com/checklist)
 ### Security
 * [Quick Wins For Improving Performance And Security Of Your Website](https://www.smashingmagazine.com/2017/10/improving-performance-security/)
 * [What web developers should know about HTTPS but probably don't](https://certsimple.com/blog/obsolete-cipher-suite-and-things-web-developers-should-know-about-ssl)
