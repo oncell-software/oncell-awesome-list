@@ -15,16 +15,18 @@ A curated list of resources that may be helpful for work at OnCell
 * [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
 * [JSTips List](https://github.com/loverajoel/jstips)
 ### CSS
+* [CSS Tricks](https://css-tricks.com/)
+* [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Wes Bos CSS Grid](https://cssgrid.io/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Wes Bos Flexbox](https://flexbox.io/)
-* [CSS Tricks](https://css-tricks.com/)
-* [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
 ### HTML
 ### Cordova
+* [Official Documentation](https://cordova.apache.org/docs/en/latest/)
+* [Cordova and Phonegap: whats the difference?](http://blog.ionicframework.com/what-is-cordova-phonegap/)
 * [Learn to Build Your First Apache Cordova / PhoneGap App](https://www.udemy.com/learn-to-build-your-first-apache-cordova-app/)
 ### iOS
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/)
@@ -34,8 +36,8 @@ A curated list of resources that may be helpful for work at OnCell
 ### Twilio
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
 ### General
-* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [What Web Can Do Today](https://whatwebcando.today/) 
 * [Can I Use](https://caniuse.com/)
@@ -52,8 +54,8 @@ A curated list of resources that may be helpful for work at OnCell
 * [Shell Awesome List](https://github.com/alebcay/awesome-shell)
 ### Git
 * [Oh shit, git!](http://ohshitgit.com/)
-* [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+* [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 ### Vagrant
 * [Vagrant Docs](https://www.vagrantup.com/docs/index.html)
 ### REST API Tools
