@@ -8,6 +8,7 @@ __Bold__ = strong recommendation
 * __[Writing Your First Django App](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)__
 * __[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)__
 * [Python Awesome List](https://github.com/vinta/awesome-python)
+* [Python Design Patterns](https://github.com/faif/python-patterns)
 * [Django Awesome List](https://github.com/rosarior/awesome-django)
 ### Javascript
 * __[Robust Javascript](https://molily.de/robust-javascript/)__
