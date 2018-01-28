@@ -3,12 +3,12 @@ A curated list of resources that may be helpful for work at OnCell
 
 ## Languages/Frameworks
 ### Django/Python
-* [Django 1.8 Docs](https://docs.djangoproject.com/en/1.8/)
-* [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+* __[Django 1.8 Docs](https://docs.djangoproject.com/en/1.8/)__
+* __[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)__
 * [Python Awesome List](https://github.com/vinta/awesome-python)
 * [Django Awesome List](https://github.com/rosarior/awesome-django)
 ### Javascript
-* [Robust Javascript](https://molily.de/robust-javascript/)
+* __[Robust Javascript](https://molily.de/robust-javascript/)__
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [The 10 Most Common Mistakes JavaScript Developers Make](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
@@ -37,7 +37,7 @@ A curated list of resources that may be helpful for work at OnCell
 ### Twilio
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
 ### General
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* __[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)__
 * [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [What Web Can Do Today](https://whatwebcando.today/) 
@@ -54,18 +54,19 @@ A curated list of resources that may be helpful for work at OnCell
 * [Dotfiles Awesome List](https://github.com/webpro/awesome-dotfiles)
 * [Shell Awesome List](https://github.com/alebcay/awesome-shell)
 ### Git
-* [Oh shit, git!](http://ohshitgit.com/)
+* __[Oh shit, git!](http://ohshitgit.com/)__
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 ### Vagrant
 * [Vagrant Docs](https://www.vagrantup.com/docs/index.html)
 ### REST API Tools
 * [Postman](https://www.getpostman.com/)
+* [Insomnia](https://insomnia.rest/)
 ### Linting
 * [ESLint](https://eslint.org/)
 * [Prettier](https://github.com/prettier/prettier)
 ### Debugging
-* [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+* __[Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)__
 * [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
 ### Testing
 ### General
@@ -76,6 +77,7 @@ A curated list of resources that may be helpful for work at OnCell
 ## Other Technical Topics
 ### Accessibility
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
+* [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
 * [Client side accessibility error scanner](https://github.com/github/accessibilityjs)
 * [A11Y accessibility checklist](https://a11yproject.com/checklist)
 ### Security
@@ -104,11 +106,11 @@ A curated list of resources that may be helpful for work at OnCell
 * [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Books
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Two Scoops of Django](https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342)
+* __[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)__
+* __[Two Scoops of Django](https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342)__
 
 ## Podcasts
-* [ShopTalkShow](http://shoptalkshow.com/)
+* __[ShopTalkShow](http://shoptalkshow.com/)__
   * Show about front-end development by Chris Coyier (of Codepen, CSS-Tricks) and Dave Rupert
 * [Syntax](https://syntax.fm/)
   * Show about front-end development by Wes Bos
