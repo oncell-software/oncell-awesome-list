@@ -14,6 +14,7 @@ A curated list of resources that may be helpful for work at OnCell
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 * [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
 * [JSTips List](https://github.com/loverajoel/jstips)
+* [Human Javascript](http://read.humanjavascript.com/ch01-introduction.html)
 ### CSS
 * [CSS Tricks](https://css-tricks.com/)
 * [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
