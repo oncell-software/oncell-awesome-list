@@ -39,12 +39,6 @@ __Bold__ = strong recommendation
 ### MySQL
 ### Twilio
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
-### General
-* __[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)__
-* __[Can I Use](https://caniuse.com/)__
-* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
-* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
-* [What Web Can Do Today](https://whatwebcando.today/) 
 
 ## Development Tools
 ### Code Editors
@@ -72,13 +66,27 @@ __Bold__ = strong recommendation
 ### Debugging
 * __[Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)__
 * [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
-### Testing
+### Testing/Error Tracking
+* [Browserstack](https://www.browserstack.com/)
+* [Bugsnag](https://www.bugsnag.com/)
+* [Sentry](https://sentry.io/)
 ### General
+* __[Can I Use](https://caniuse.com/)__
 * [macOS development environment from scratch](https://assortment.io/posts/macos-development-environment)
 * [DevDocs](https://devdocs.io/)
 * [Dev Env Awesome List](https://github.com/jondot/awesome-devenv)
 
-## Other Technical Topics
+## Other Topics
+### General Web Stuff
+* __[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)__
+* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+* [What Web Can Do Today](https://whatwebcando.today/) 
+### Web Performance
+* [A Designer’s Guide to Perceived Performance](https://blog.marvelapp.com/a-designers-guide-to-perceived-performance/)
+* [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
+* [Best Practices for a Faster Web App with HTML5](https://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+* [Awesome Web Performance List](https://github.com/davidsonfellipe/awesome-wpo)
 ### Accessibility
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 * [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
@@ -87,29 +95,35 @@ __Bold__ = strong recommendation
 ### Security
 * [Quick Wins For Improving Performance And Security Of Your Website](https://www.smashingmagazine.com/2017/10/improving-performance-security/)
 * [What web developers should know about HTTPS but probably don't](https://certsimple.com/blog/obsolete-cipher-suite-and-things-web-developers-should-know-about-ssl)
+### Progressive Web Apps
+* [Google Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+* [PWA List](https://github.com/TalAter/awesome-progressive-web-apps)
 ### Augmented Reality
 ### Beacons
 * [iBeacons – our experience in the Hidden Museum app](http://www.labs.bristolmuseums.org.uk/ibeacons-our-experience-in-the-hidden-museum-app/)
 * [The Realities of Installing iBeacon to Scale](https://www.brooklynmuseum.org/community/blogosphere/2015/02/04/the-realities-of-installing-ibeacon-to-scale/)
-### Web Performance
-* [A Designer’s Guide to Perceived Performance](https://blog.marvelapp.com/a-designers-guide-to-perceived-performance/)
-* [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
-* [Best Practices for a Faster Web App with HTML5](https://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
-* [Awesome Web Performance List](https://github.com/davidsonfellipe/awesome-wpo)
-### Progressive Web Apps
-* [PWA List](https://github.com/TalAter/awesome-progressive-web-apps)
-### Productivity
-* [Noisli White Noise Generator](https://www.noisli.com/)
-* [Pomodoro Method Timer](https://tomato-timer.com/)
-* [Grammarly](https://www.grammarly.com/)
+## Design
+* __[Dribbble](https://dribbble.com/)__
+* [Typewolf](https://www.typewolf.com/)
+* [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
+* [Aspect Ratio Calculator](https://aspectrat.io/)
+* [Hack Design](https://hackdesign.org/lessons)
+* [Sketch App](https://www.sketchapp.com/)
+* [Web Typography List](https://github.com/deanhume/typography)
 ### Software Project Management
+* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [How to Scope Work](http://danmall.me/articles/how-to-scope-work/)
 * [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 * [Fog Creek Code Review Checklist](https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
 * [Effective Code Reviews](https://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 * [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 * [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+### Productivity/Wellbeing
+* [Noisli White Noise Generator](https://www.noisli.com/)
+* [Pomodoro Method Timer](https://tomato-timer.com/)
+* [Grammarly](https://www.grammarly.com/)
+* [Getting Work Done Without Simply Working More Hours](https://www.smashingmagazine.com/2015/12/getting-work-done-without-simply-working-hours/)
+* [Headspace Meditation](https://www.headspace.com/)
 
 ## Books
 * __[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)__
@@ -120,15 +134,6 @@ __Bold__ = strong recommendation
   * Show about front-end development by Chris Coyier (of Codepen, CSS-Tricks) and Dave Rupert
 * [Syntax](https://syntax.fm/)
   * Show about front-end development by Wes Bos
-
-## Design
-* __[Dribbble](https://dribbble.com/)__
-* [Typewolf](https://www.typewolf.com/)
-* [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
-* [Aspect Ratio Calculator](https://aspectrat.io/)
-* [Hack Design](https://hackdesign.org/lessons)
-* [Sketch App](https://www.sketchapp.com/)
-* [Web Typography List](https://github.com/deanhume/typography)
 
 ## Industry News
 * __[Web Developer Reading List](https://wdrl.info/)__
