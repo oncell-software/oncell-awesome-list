@@ -86,7 +86,7 @@ __Bold__ = strong recommendation
 * [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
 * [Best Practices for a Faster Web App with HTML5](https://www.html5rocks.com/en/tutorials/speed/quick/)
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
-* [Awesome Web Performance List](https://github.com/davidsonfellipe/awesome-wpo)
+* [Web Performance Awesome List](https://github.com/davidsonfellipe/awesome-wpo)
 ### Accessibility
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 * [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
@@ -97,7 +97,7 @@ __Bold__ = strong recommendation
 * [What web developers should know about HTTPS but probably don't](https://certsimple.com/blog/obsolete-cipher-suite-and-things-web-developers-should-know-about-ssl)
 ### Progressive Web Apps
 * [Google Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
-* [PWA List](https://github.com/TalAter/awesome-progressive-web-apps)
+* [PWA Awesome List](https://github.com/TalAter/awesome-progressive-web-apps)
 ### Augmented Reality
 ### Beacons
 * [iBeacons – our experience in the Hidden Museum app](http://www.labs.bristolmuseums.org.uk/ibeacons-our-experience-in-the-hidden-museum-app/)
@@ -109,7 +109,7 @@ __Bold__ = strong recommendation
 * [Aspect Ratio Calculator](https://aspectrat.io/)
 * [Hack Design](https://hackdesign.org/lessons)
 * [Sketch App](https://www.sketchapp.com/)
-* [Web Typography List](https://github.com/deanhume/typography)
+* [Web Typography Awesome List](https://github.com/deanhume/typography)
 ### Software Project Management
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [How to Scope Work](http://danmall.me/articles/how-to-scope-work/)
