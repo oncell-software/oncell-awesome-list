@@ -102,7 +102,7 @@ __Bold__ = strong recommendation
 ### Beacons
 * [iBeacons – our experience in the Hidden Museum app](http://www.labs.bristolmuseums.org.uk/ibeacons-our-experience-in-the-hidden-museum-app/)
 * [The Realities of Installing iBeacon to Scale](https://www.brooklynmuseum.org/community/blogosphere/2015/02/04/the-realities-of-installing-ibeacon-to-scale/)
-## Design
+### Design
 * __[Dribbble](https://dribbble.com/)__
 * [Typewolf](https://www.typewolf.com/)
 * [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
