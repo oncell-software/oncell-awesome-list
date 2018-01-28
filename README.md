@@ -134,6 +134,13 @@ __Bold__ = strong recommendation
 * [TechCrunch](https://techcrunch.com/)
 * [Front End Front](https://frontendfront.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
+* Reddit
+  * [/r/webdev](https://www.reddit.com/r/webdev)
+  * [/r/programming/](https://www.reddit.com/r/programming)
+  * [/r/web_design/](https://www.reddit.com/r/web_design)
+  * [/r/javascript/](https://www.reddit.com/r/javascript)
+  * [/r/django](https://www.reddit.com/r/django)
+  * [/r/python](https://www.reddit.com/r/python)
 
 ## Tutorial Sites
 * [Code School](https://www.codeschool.com/)
