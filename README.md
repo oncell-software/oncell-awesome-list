@@ -5,7 +5,7 @@ __Bold__ = strong recommendation
 ## Languages/Frameworks
 ### Django/Python
 * __[Django 1.8 Docs](https://docs.djangoproject.com/en/1.8/)__
-* __[Writing Your First Django App]__(https://docs.djangoproject.com/en/1.8/intro/tutorial01/)__
+* __[Writing Your First Django App](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)__
 * __[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)__
 * [Python Awesome List](https://github.com/vinta/awesome-python)
 * [Django Awesome List](https://github.com/rosarior/awesome-django)
