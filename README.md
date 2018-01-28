@@ -5,17 +5,18 @@ __Bold__ = strong recommendation
 ## Languages/Frameworks
 ### Django/Python
 * __[Django 1.8 Docs](https://docs.djangoproject.com/en/1.8/)__
+* __[Writing Your First Django App]__(https://docs.djangoproject.com/en/1.8/intro/tutorial01/)__
 * __[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)__
 * [Python Awesome List](https://github.com/vinta/awesome-python)
 * [Django Awesome List](https://github.com/rosarior/awesome-django)
 ### Javascript
 * __[Robust Javascript](https://molily.de/robust-javascript/)__
+* [Human Javascript](http://read.humanjavascript.com/ch01-introduction.html)
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [The 10 Most Common Mistakes JavaScript Developers Make](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
-* [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 * [Wes Bos Javascript 30 Coding Challenge](https://javascript30.com/)
 * [JSTips List](https://github.com/loverajoel/jstips)
-* [Human Javascript](http://read.humanjavascript.com/ch01-introduction.html)
+* [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 ### CSS
 * [CSS Tricks](https://css-tricks.com/)
 * [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
@@ -118,7 +119,7 @@ __Bold__ = strong recommendation
   * Show about front-end development by Wes Bos
 
 ## Design
-* [Dribbble](https://dribbble.com/)
+* __[Dribbble](https://dribbble.com/)__
 * [Typewolf](https://www.typewolf.com/)
 * [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
 * [Aspect Ratio Calculator](https://aspectrat.io/)
@@ -127,11 +128,11 @@ __Bold__ = strong recommendation
 * [Web Typography List](https://github.com/deanhume/typography)
 
 ## Industry News
+* __[Web Developer Reading List](https://wdrl.info/)__
 * [Hacker News](https://news.ycombinator.com/)
 * [TechCrunch](https://techcrunch.com/)
 * [Front End Front](https://frontendfront.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
-* [Web Developer Reading List](https://wdrl.info/)
 
 ## Tutorial Sites
 * [Code School](https://www.codeschool.com/)
