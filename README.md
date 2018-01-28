@@ -38,10 +38,10 @@ A curated list of resources that may be helpful for work at OnCell
 * [Twilio Quest](https://www.twilio.com/quest/welcome)
 ### General
 * __[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)__
+* __[Can I Use](https://caniuse.com/)__
 * [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [What Web Can Do Today](https://whatwebcando.today/) 
-* [Can I Use](https://caniuse.com/)
 
 ## Development Tools
 ### Code Editors
@@ -54,7 +54,8 @@ A curated list of resources that may be helpful for work at OnCell
 * [Dotfiles Awesome List](https://github.com/webpro/awesome-dotfiles)
 * [Shell Awesome List](https://github.com/alebcay/awesome-shell)
 ### Git
-* __[Oh shit, git!](http://ohshitgit.com/)__
+* __[Git Guide](http://rogerdudler.github.io/git-guide/)__
+* [Oh shit, git!](http://ohshitgit.com/)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 ### Vagrant
