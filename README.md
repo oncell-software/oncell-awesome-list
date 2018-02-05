@@ -20,6 +20,7 @@ __Bold__ = strong recommendation
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 ### CSS
 * [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 * [CSS Tricks](https://css-tricks.com/)
 * [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
