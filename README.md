@@ -28,6 +28,7 @@ __Bold__ = strong recommendation
 * [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 * [CSS Tricks](https://css-tricks.com/)
 * [CSS Pro Tips List](https://github.com/AllThingsSmitty/css-protips)
+* [30 Seconds of CSS Snippets](https://atomiks.github.io/30-seconds-of-css/)
 * [CSS Alignment Cheatsheet](http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/)
 * [Mozilla Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
