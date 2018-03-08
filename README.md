@@ -75,6 +75,9 @@ __Bold__ = strong recommendation
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 * [SourceTree Git GUI](https://www.sourcetreeapp.com/)
 
+### Vim
+* [Vim Cheatsheet](https://vim.rtorr.com/)
+
 ### Vagrant
 * [Vagrant Docs](https://www.vagrantup.com/docs/index.html)
 
